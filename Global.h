@@ -12,9 +12,9 @@ void LogDebug2(uint32_t);
 
 unsigned int from_str_to_uint(std::string);
 
-// Поля класса.
+// РџРѕР»СЏ РєР»Р°СЃСЃР°.
 struct newFields
 {
-	std::string name = ""; // Имя.
-	unsigned int r = 0; // Размер.
+	std::string name = ""; // РРјСЏ.
+	unsigned int r = 0; // Р Р°Р·РјРµСЂ.
 };
